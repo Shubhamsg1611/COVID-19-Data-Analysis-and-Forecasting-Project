@@ -50,7 +50,6 @@ This project provides tools and insights that can be leveraged by:
 - **Policymakers:** To make informed decisions regarding healthcare resource allocation.
 - **Researchers:** To build on this foundation for more advanced predictive models.
 - **Healthcare Providers:** To anticipate and prepare for potential future scenarios.
-
 ### Conclusion: 
 This project provides a foundation for analyzing and forecasting COVID-19 trends, emphasizing the importance of accurate data and continuous monitoring. While current models provide valuable insights, further refinements are needed to account for uncertainties and external factors influencing the pandemic's trajectory.
 
