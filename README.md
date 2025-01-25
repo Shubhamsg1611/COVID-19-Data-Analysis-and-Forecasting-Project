@@ -1,4 +1,5 @@
 # COVID-19-Data-Analysis-and-Forecasting-Project
+![](https://www.datascienceportfol.io/static/profile_pics/pr26_B9ADA0C8BEDB31C60AD1.jpg)
 
 ### Overview:
 This project focuses on analyzing and forecasting COVID-19 trends using a dataset that includes cases, deaths, recoveries, and testing metrics for various countries. The primary objective is to explore historical data, derive insights, and predict future trends, such as COVID-19 deaths in India for 2025. The analysis employs statistical techniques, data visualization, and machine learning algorithms.
